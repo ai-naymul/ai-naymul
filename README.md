@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)](https://github.com/ai-naymul)
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)](https://github.com/ai-naymul)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-naymul&label=Profile%20views&color=0e75b6&style=flat" alt="ai-naymul" /> </p>
 <h1 align="center">Hi 👋, I'm Naymul Islam</h1>
 <h3 align="center">Python Full-Stack Intern at JALA Academy | Ex-Developer Intern at Reinforz.ai | Data Science & Machine Learning Operations Enthusiast</h3>
