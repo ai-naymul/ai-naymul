@@ -1,11 +1,8 @@
-[![MasterHead](https://cdn.dribbble.com/users/2440104/screenshots/6254368/machine-learning-_1_.gif)](https://github.com/ai-naymul)
+[![MasterHead](https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ)](https://github.com/ai-naymul)
 <h1 align="center">Hi 👋, I'm Naymul Islam</h1>
 <h3 align="center">Python Full-Stack Intern at JALA Academy | Ex-Developer Intern at Reinforz.ai | Data Science & Machine Learning Operations Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-naymul&label=Profile%20views&color=0e75b6&style=flat" alt="ai-naymul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-naymul" alt="ai-naymul" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Docker, TensorFlow, AWS, Scikit-Learn, SQL, DSA, Ansible, Github Actions, MLFlow, Sagemaker, KubeFlow, Jenkins, Scala**
 
@@ -20,6 +17,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/119aAgT2iLXp1V4wRFp08VmYND7LwJSHh/view?usp=sharing](https://drive.google.com/file/d/119aAgT2iLXp1V4wRFp08VmYND7LwJSHh/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Humorous, Funny, Hardcore Coder and have a habit of learning.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-naymul&label=Profile%20views&color=0e75b6&style=flat" alt="ai-naymul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-naymul" alt="ai-naymul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
