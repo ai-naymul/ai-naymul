@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e)](https://github.com/ai-naymul)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-naymul&label=Profile%20views&color=0e75b6&style=flat" alt="ai-naymul" /> </p>
 <h1 align="center">Hi 👋, I'm Naymul Islam</h1>
-<h3 align="center">Python Full-Stack Intern at JALA Academy | Ex-Developer Intern at Reinforz.ai | Data Science & Machine Learning Operations Enthusiast</h3>
+<h3 align="center">ML Research & Open-Source Dev Intern @ Menlo Park Lab | Ex-Python Full-Stack Intern at JALA Academy | Ex-Developer Intern at Reinforz.ai | Data Science & Machine Learning Operations Enthusiast</h3>
 <img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
